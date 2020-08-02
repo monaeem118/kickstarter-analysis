@@ -25,16 +25,16 @@ The line chart for "Outcomes Based on Goals" was not showing the expected plot. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-* The months of May and June have a higher success rate compared to the rest of the months. It seems to be a good time to launch campaigns.
-* The month of Dec has the lowest number of successful campaigns and is not advisable to launch campaigns.
+  The months of May and June have a higher success rate compared to the rest of the months. It seems to be a good time to launch campaigns.
+  The month of Dec has the lowest number of successful campaigns and is not advisable to launch campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
-Kickstarter campaigns with goals under $5000 have a higher success rate.
+  Kickstarter campaigns with goals under $5000 have a higher success rate.
 
 - What are some limitations of this dataset?
-Source of backers is not known. 
+  Source of backers is not known. 
 
 - What are some other possible tables and/or graphs that we could create?
-In order to give Louise a more detailed analysis on campaigns we could have created following charts/plots:
--- A bar chart of Parent category/sub category vs backers by source can give us the information about the sources of backers leading to successful outcomes.
--- An average number of days vs successful/failed & canceled bar chart would also give us an average number of days required per successful campaign.
+  In order to give Louise a more detailed analysis on campaigns we could have created following charts/plots:
+   A bar chart of Parent category/sub category vs backers by source can give us the information about the sources of backers leading to successful outcomes.
+   An average number of days vs successful/failed & canceled bar chart would also give us an average number of days required per successful campaign.
