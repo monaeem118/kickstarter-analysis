@@ -1,4 +1,4 @@
-# Technical Analysis of Louise' Kickstarter Campaigns
+# Technical Analysis of Louise's Kickstarter Campaigns
 
 ## Overview of Project
 This project provides a visual analysis and insight into Louise's crowdfunding dataset for "Theater" category. 
